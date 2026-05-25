@@ -1,6 +1,10 @@
 # Release Notes
 
-## [1.0.1] - 2026-05-24
+## [1.0.2] - 2026-05-25
+
+- Minor updates and bug fixes.
+
+## [1.0.1] - 2026-05-25
 - Minor updates and bug fixes.
 
 ## [1.0.0] - 2026-05-24
